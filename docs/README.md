@@ -25,6 +25,22 @@ A sophisticated book recommendation system that combines web scraping, machine l
 - **Data Visualization**: Interactive charts and statistics
 - **Scalable Architecture**: Modular design for easy extension
 
+## 📸 Application Screenshots
+
+See how the Book Recommendation System looks in action:
+
+### System Statistics Dashboard
+![System Statistics](../screenshots/system_stats.png)
+*Overview of the complete book database with statistics on total books, genres, and authors, plus interactive genre distribution charts.*
+
+### Search & Recommendations
+![Search and Recommendations](../screenshots/search_recommendations.png)
+*Intelligent book search with AI-powered recommendations based on your preferences and reading history.*
+
+### Explore Books by Genre
+![Explore Books](../screenshots/explore_books.png)
+*Browse and discover books by genre with customizable filters and detailed book information including ratings and descriptions.*
+
 ## 🏗️ System Architecture
 
 ```
